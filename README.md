@@ -1,3 +1,3 @@
 # banknew
 # Create A Database
-# name bank
+ name= bank
